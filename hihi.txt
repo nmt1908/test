@@ -1,1 +1,2 @@
-file text cua brand text merge
+day la file hihi.txt
+cua testmerge ma thoi
